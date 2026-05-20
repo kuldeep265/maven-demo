@@ -5,7 +5,7 @@ package com.kuldeep;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Jenaakinssss + Mavenworking again with ci/cd again
+        System.out.println("Hello Jenaakinsssttts + Mavenworking again with ci/cd again
 ");
     }
 }
